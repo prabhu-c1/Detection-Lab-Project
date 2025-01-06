@@ -35,22 +35,22 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### Ref 5: Installing Elastic Agent in Client
 ![Installing Eastic Agent](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-10%20102247.png)
 
-### Ref 5: Successfully Ingested Logs
+### Ref 6: Successfully Ingested Logs
 ![Logs](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-10%20121620.png)
 
-### Ref 6: Creating Rule to Detect Ping Command Execution
+### Ref 7: Creating Rule to Detect Ping Command Execution
 ![Creating Rule](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-17%20102517.png)
 ![Creating Rule](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-17%20102802.png)
 
-### Ref 7: Alert Triggered for Ping Command Execution
+### Ref 8: Alert Triggered for Ping Command Execution
 ![Aleret Triggered](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-17%20104023.png)
 
-### Ref 8: Performed SSH Bruteforce Attack using Hydra Tool
+### Ref 9: Performed SSH Bruteforce Attack using Hydra Tool
 ![Attack Performed](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-17%20102823.png)
 
-### Ref 9: Alert Triggered for SSH Bruteforce
+### Ref 10: Alert Triggered for SSH Bruteforce
 ![Aleret Triggered](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-10%20154955.png)
 ![Aleret Triggered](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-10%20155122.png)
 
-### Ref 10: Monitoring Success and Failed User Login Attempts of Event ID 4624 and 4625 in Windows Server 
+### Ref 11: Monitoring Successful and Failed User Login Attempts (Event IDs 4624 and 4625) on a Windows Server 
 ![Monitoring Login Attempts](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-16%20200359.png)
