@@ -6,14 +6,15 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
+- Good understanding of SIEM concepts and practical application.
+- Proficiency in analyzing and filtering logs.
+- Ability to write simple rules using known attack signatures and patterns.
+- Enhanced knowledge of configuration and background process.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
 
+- Operating Systems: Widows Server 2019, Ubuntu, Kali Linux.
 - SIEM system (ELK Stack) for log ingestion and analysis.
 - HYDRA to perform bruteforce attack.
 
