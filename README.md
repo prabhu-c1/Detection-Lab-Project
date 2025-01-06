@@ -17,7 +17,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - SIEM system (ELK Stack) for log ingestion and analysis.
 - HYDRA to perform bruteforce attack.
 
-## Steps
+## Images
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
