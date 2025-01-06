@@ -35,6 +35,9 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### Ref 5: Installing Elastic Agent in Client
 ![Installing Eastic Agent](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-10%20102247.png)
 
+### Ref 5: Successfully Ingested Logs
+![Logs](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-10%20121620.png)
+
 ### Ref 6: Creating Rule to Detect Ping Command Execution
 ![Creating Rule](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-17%20102517.png)
 ![Creating Rule](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-17%20102802.png)
