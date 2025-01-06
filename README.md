@@ -20,4 +20,4 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ## Images
 
 ### Ref 1: Configuring Private LAN for Lab in VirtualBox
-![Network Adapter Configuration](images/Screenshot 2024-10-03 104252.png)
+![Network Adapter Configuration](https://github.com/prabhu-c1/Detection-Lab-Project/blob/main/images/Screenshot%202024-10-03%20104252.png)
